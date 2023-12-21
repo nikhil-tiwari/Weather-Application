@@ -2,7 +2,7 @@
 
 ## Description
 
- This is a simple weather application using which you can fetch the weather detials of any city from around the world.
+ This is a simple weather application using which you can fetch the weather details of any city from around the world.
 
  This is made using HTML, CSS and JavaScript.
 
