@@ -7,7 +7,7 @@ Welcome to the Weather App, a user-friendly application that allows you to fetch
 - **Global Weather Data**: Access up-to-date weather information for any city worldwide.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 - **API Integration**: Learn how to fetch and display data from a weather API in a real-world scenario.
-- **User-Friendly Interface**: Easily search for cities and view detailed weather statistics, including temperature, humidity, and weather conditions.
+- **User-Friendly Interface**: Easily search for cities and view detailed weather statistics, including temperature, and weather conditions.
 
 ## Purpose
 
