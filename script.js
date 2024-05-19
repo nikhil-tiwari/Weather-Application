@@ -42,7 +42,7 @@ async function fetchDetails(cityName) {
 }
 
 function updateDOM(fullCityName, temperature, timeAndDate, conditionText, conditionIcon){
-    temperatureField.innerHTML = temperature;
+    temperatureField.innerHTML = temperature + "°C";
     cityField.innerHTML = fullCityName;
     const dateandtimeArr = timeAndDate.split(" ");
     // console.log(dateandtimeArr);
